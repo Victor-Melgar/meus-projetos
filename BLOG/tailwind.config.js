@@ -2,7 +2,9 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      display: 'grid',
+    },
   },
   plugins: [],
 }
