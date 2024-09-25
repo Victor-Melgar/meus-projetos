@@ -8,6 +8,5 @@
 
 #prev, #next {
     z-index: 4;
-    font-size: x-large;
-    transform: translateY(-50%);
 }
+
